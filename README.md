@@ -1,7 +1,5 @@
 ### Hi there, I'm Cesar Augusto 👋
 
-  <img height="350" align="right"  alt="GIF" src="https://i.giphy.com/media/USV0ym3bVWQJJmNu3N/giphy.webp" />
-
 - 👨🏽‍💻 Currently a Frontend Software Engineer at Io.insure.
 - ❤️ Passionate about diving deeper into React, Vue, and NodeJS.
 - 💼 Holds degrees in Industrial Engineering (Bachelor's degree), System Analysis and Development (BTech), as well as a Postgraduate Degree in Information Technology Management and Governance.
